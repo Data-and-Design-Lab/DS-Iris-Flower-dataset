@@ -1,4 +1,9 @@
-# Introduction to data science using fisher's iris data and scikit-learn
+Introduction to data science using fisher's iris data and scikit-learn
+
+## Steps to get started
+1. Clone the repository to machine or open on Google Colab
+2. Install required packages (see below, already installed in Colab)
+3. Explore the notebooks
 
 ## Introduction
 
