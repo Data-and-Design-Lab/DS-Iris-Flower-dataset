@@ -19,7 +19,8 @@ Or
 
 Iris is a beautiful flower but there are 260-300 species ([wikipedia](https://en.wikipedia.org/wiki/Iris_(plant))). We want to create an application that will observe features of the flower and tell us what species it is.
 
-![](RackMultipart20220520-1-a5yruo_html_a9817950933b1e28.png)
+![](https://miro.medium.com/max/1400/1*uo6VfVH87jRjMZWVdwq3Vw.png)
+
 
 Fig. 3 species in the Iris dataset ([source](https://medium.com/@Nivitus./iris-flower-classification-machine-learning-d4e337140fa4))
 
