@@ -3,8 +3,8 @@ Introduction to data science using fisher's iris data and scikit-learn
 # Steps to get started
 
 1. Open on [Google Colab](https://colab.research.google.com/) and open the notebook using the [repository link](https://github.com/Data-and-Design-Lab/DS-Iris-Flower-dataset)
-  1. If you do not see a dialog then, select File \&gt; Open Notebook
-  2. Select &quot;Github&quot; \&gt; Enter Repository link \&gt; press enter
+  1. If you do not see a dialog then, select File > Open Notebook
+  2. Select "Github" > Enter Repository link > press enter
 [https://github.com/Data-and-Design-Lab/DS-Iris-Flower-dataset](https://github.com/Data-and-Design-Lab/DS-Iris-Flower-dataset)
   3. select the notebook to get started
 2. Explore the notebook
