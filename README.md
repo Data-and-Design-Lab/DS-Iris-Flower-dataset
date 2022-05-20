@@ -1,7 +1,8 @@
 Introduction to data science using fisher's iris data and scikit-learn
 
 ## Steps to get started
-1. Clone the repository to machine or open on Google Colab
+1. Clone the repository to machine or open the notebooks on [Google Colab](https://colab.research.google.com/)  
+(File > Open Notebook > From Github > Enter Repository link > select a notebook)
 2. Install required packages (see below, already installed in Colab)
 3. Explore the notebooks
 
